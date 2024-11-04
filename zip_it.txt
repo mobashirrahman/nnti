@@ -1,0 +1,1 @@
+zip "Ratnadeep Chakraborty_7022859_Md Mobashir Rahman_7059086.zip" assignment01/nnti-assignment-1.ipynb assignment01/nnti-assignment-1.html 
