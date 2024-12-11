@@ -1,1 +1,0 @@
-Hello, we apologize but for the 5th assignment submission, we forgot to save the FFNN.ipynb file and directly exported to html/pdf. As a result, the final submission did not have the filled up FFNN.ipynb file. We have added that file in this submission as per the feedback from the last assignment.
