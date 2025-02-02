@@ -1,0 +1,21 @@
+Tests And Exams
+Assignments
+Points
+66.5 / 110
+Passed
+passed
+66.5
+Name			Points		
+Assignment 1			10 / 10		
+Assignment 2			9.5 / 10		
+Assignment 3			11 / 10 (+ 3)		
+Assignment 4			8.5 / 10		
+Assignment 5			9.5 / 10		
+Assignment 6			11.5 / 10 (+ 1.5)		
+Assignment 7			6.5 / 10		
+Assignment 8			n.a. / 10		
+Assignment 9			n.a. / 10		
+Assignment 10			n.a. / 10 (+ 2)		
+Assignment 11			n.a. / 10		
+Fix for first submission.			n.a. / 10		
+Bonus Points			n.a. / 22		

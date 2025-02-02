@@ -1,1 +1,0 @@
-zip -r "Ratnadeep Chakraborty_7022859_Md Mobashir Rahman_7059086.zip" Submissions/a3/
